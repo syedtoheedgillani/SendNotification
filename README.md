@@ -27,4 +27,4 @@ Local
 
 **Usage:**
 
-Integrating the SendNotification plugin into your Moodle instance is a straightforward process.
+To obtain the code, feel free to reach out to me on [Upwork](https://www.upwork.com/freelancers/~0188ff047bab91ab3c). Integrating the SendNotification plugin into your Moodle instance is a straightforward process.
